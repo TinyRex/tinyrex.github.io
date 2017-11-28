@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TinyRex - Articles</title>
+    <description>accent is, as Trump would put it, the best
+</description>
+    <link>
+    http://localhost:4000</link>
+    
+      
+      <item>
+        <title>Hello!</title>
+        
+          <description>&lt;p&gt;Hi there!&lt;/p&gt;
+</description>
+        
+        <pubDate>Tue, 28 Nov 2017 00:00:00 -0500</pubDate>
+        <link>
+        http://localhost:4000/hello!.html</link>
+        <guid isPermaLink="true">http://localhost:4000/hello!.html</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
